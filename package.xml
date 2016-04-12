@@ -1,6 +1,6 @@
 <package>
   <name>laser_pipeline</name>
-  <version>1.6.1</version>
+  <version>1.6.2</version>
   <description>
       Meta-package of libraries for processing laser data, including converting laser data
       into 3D representations.
@@ -8,7 +8,7 @@
   <license>BSD</license>
 
   <url>http://www.ros.org/wiki/laser_pipeline</url>
-  <maintainer email="dgossow@willowgarage.com">David Gossow</maintainer>
+  <maintainer email="dgossow@gmail.com">David Gossow</maintainer>
 
   <buildtool_depend>catkin</buildtool_depend>
   

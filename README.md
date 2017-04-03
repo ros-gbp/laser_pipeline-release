@@ -1,3 +1,26 @@
+## laser_pipeline (lunar) - 1.6.2-0
+
+The packages in the `laser_pipeline` repository were released into the `lunar` distro by running `/usr/bin/bloom-release laser_pipeline --track lunar --rosdistro lunar --new-track` on `Mon, 03 Apr 2017 20:58:36 -0000`
+
+The `laser_pipeline` package was released.
+
+Version of package(s) in repository `laser_pipeline`:
+
+- upstream repository: https://github.com/ros-perception/laser_pipeline.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.6.2-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.1`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.1`
+- vcstools version: `0.1.39`
+
+
 ## laser_pipeline (kinetic) - 1.6.2-0
 
 The packages in the `laser_pipeline` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --track kinetic --rosdistro kinetic --new-track laser_pipeline` on `Tue, 12 Apr 2016 05:54:07 -0000`

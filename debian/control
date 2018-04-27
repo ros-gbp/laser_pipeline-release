@@ -1,0 +1,12 @@
+Source: ros-melodic-laser-pipeline
+Section: misc
+Priority: extra
+Maintainer: Jonathan Binney <jon.binney@gmail.com>
+Build-Depends: debhelper (>= 9.0.0), ros-melodic-catkin
+Homepage: http://www.ros.org/wiki/laser_pipeline
+Standards-Version: 3.9.2
+
+Package: ros-melodic-laser-pipeline
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-melodic-laser-assembler, ros-melodic-laser-filters, ros-melodic-laser-geometry
+Description: Meta-package of libraries for processing laser data, including converting laser data into 3D representations.

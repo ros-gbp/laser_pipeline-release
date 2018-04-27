@@ -1,3 +1,26 @@
+## laser_pipeline (melodic) - 1.6.3-0
+
+The packages in the `laser_pipeline` repository were released into the `melodic` distro by running `/usr/bin/bloom-release laser_pipeline --track melodic --rosdistro melodic --new-track` on `Fri, 27 Apr 2018 04:17:01 -0000`
+
+The `laser_pipeline` package was released.
+
+Version of package(s) in repository `laser_pipeline`:
+
+- upstream repository: https://github.com/ros-perception/laser_pipeline.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.6.3-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.4`
+- catkin_pkg version: `0.4.1`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.8`
+- vcstools version: `0.1.40`
+
+
 ## laser_pipeline (lunar) - 1.6.2-0
 
 The packages in the `laser_pipeline` repository were released into the `lunar` distro by running `/usr/bin/bloom-release laser_pipeline --track lunar --rosdistro lunar --new-track` on `Mon, 03 Apr 2017 20:58:36 -0000`

@@ -1,3 +1,26 @@
+## laser_pipeline (noetic) - 1.6.4-1
+
+The packages in the `laser_pipeline` repository were released into the `noetic` distro by running `/usr/bin/bloom-release laser_pipeline --track noetic --rosdistro noetic --new-track` on `Fri, 24 Apr 2020 00:07:58 -0000`
+
+The `laser_pipeline` package was released.
+
+Version of package(s) in repository `laser_pipeline`:
+
+- upstream repository: https://github.com/ros-perception/laser_pipeline.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `1.6.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## laser_pipeline (melodic) - 1.6.3-0
 
 The packages in the `laser_pipeline` repository were released into the `melodic` distro by running `/usr/bin/bloom-release laser_pipeline --track melodic --rosdistro melodic --new-track` on `Fri, 27 Apr 2018 04:17:01 -0000`
